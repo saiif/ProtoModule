@@ -1,0 +1,16 @@
+{
+    "name": "saif/proto-module",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Saif\\ProtoModule\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saiif",
+            "email": "aoun.saif@gmail.com"
+        }
+    ],
+    "require": {}
+}
