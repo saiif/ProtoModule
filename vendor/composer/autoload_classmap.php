@@ -7,5 +7,4 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
-    'Saif\\ProtoModule\\HelloWorld\\SayHello' => $baseDir . '/src/HelloWorld/SayHello.php',
 );

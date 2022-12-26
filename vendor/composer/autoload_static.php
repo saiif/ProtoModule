@@ -22,7 +22,6 @@ class ComposerStaticInitea3e70f29469f7bebabaddc6f36b3fa4
 
     public static $classMap = array (
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
-        'Saif\\ProtoModule\\HelloWorld\\SayHello' => __DIR__ . '/../..' . '/src/HelloWorld/SayHello.php',
     );
 
     public static function getInitializer(ClassLoader $loader)
